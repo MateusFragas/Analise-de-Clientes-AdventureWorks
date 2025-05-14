@@ -33,7 +33,7 @@ Analisando a variação de novos clientes entre períodos, é possível identifi
 
 <br><br>
 ## Variação de novos clientes entre períodos
-<img align="right" width="500" height="320" src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/AdventureWorks%20-%20Novos%20Clientes%20Delta.png?raw=true">
+<img align="right" width="500" height="320" src="https://github.com/MateusFragas/Analise-de-Clientes-AdventureWorks/blob/main/Imagens/AdventureWorks%20-%20Novos%20Clientes%202013.png?raw=true">
 Analisando a variação de novos clientes, quando comparados com o mesmo período/mês do ano anterior, decidimos agrupar esta variação por região/país para identificar se houve crescimento. 
 Filtramos apenas o ano de 2013, pois foi o período com maiores taxas de crescimentos de novos clientes, o que nos permitiu concluir que: <br><br>
 - Canadá teve o maior crescimento percentual entre todos os países - aproximadamente 623% <br>
@@ -43,7 +43,7 @@ Filtramos apenas o ano de 2013, pois foi o período com maiores taxas de crescim
 - Austrália, apesar de não ter um crescimento comparável com Europa e América do Norte, aumentou sua base de novos clientes em quase 50%, sendo um ótimo resultado em 2013. <br>
 
 <br>
-<a href="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/SQL/AdventureWorks%20-%20Novos%20Clientes%20Delta%202013.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
+<a href="https://github.com/MateusFragas/Analise-de-Clientes-AdventureWorks/blob/main/SQL/AdventureWorks%20-%20Novos%20Clientes%20Delta%202013.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
 
 <br><br>
 
@@ -64,9 +64,9 @@ Com esta análise, chegamos as seguintes conclusões:<br>
  - Além da quantidade de clientes novos, a receita trazida por clientes novos também é a maior fatia do total.<br>
  - Os clientes novos não são a maioria para todos países e períodos. Por isso o Power BI é uma ferramenta de extrema importância, pois permite o usuário final fazer seus filtros e ter análises de forma dinâmica.
 <br><br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOTAxYWU3MGItZGMzOC00YjI2LWE0MzItZjFlODJiMzZiZDZjIiwidCI6ImZmOTg1MWE1LTViYjAtNGFmOS1hZGI3LTk2MGYxZTMzNzVhNiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 <br>
-<a href="https://github.com/BruceFonseca/AdventureWorks2022/tree/main/POWERBI" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
+<a href="https://github.com/MateusFragas/Analise-de-Clientes-AdventureWorks/tree/main/Power%20BI" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
 <br><br>
 
 ## Ferramentas e linguagens utilizadas
